@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(193, 212, 197);
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h2 {
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+}
+
+section {
+  text-align: -webkit-center;
+  padding: 10px;
+}
+
+table {
+  box-shadow: 0 0 5px 1px;
+  background-color: rgb(255, 255, 255);
+}
+
+.table-heading {
+  text-align: -webkit-center;
+}
+
+td {
+  font-size: larger;
+  padding: 5px;
+}
+
+main {
+  text-align: -webkit-center;
+}
+
+#map {
+  align-items: center;
+  min-width: 200px;
+  min-height: 300px;
+  border: 1px solid darkgray;
+  box-shadow: 0 0 5px 1px;
+  margin-top: 20px;
+}

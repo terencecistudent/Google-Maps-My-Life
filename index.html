@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Life - Google Maps</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <h2>My Life Using Google Maps</h2>
+    <section>
+        <table>
+            <thead>
+                <td colspan="2" class="table-heading">
+                    <strong>Pointers by letters:</strong>
+                </td>
+            </thead>
+            <tr>
+                <td>A:</td>
+                <td>Where I Grew Up</td>
+            </tr>
+            <tr>
+                <td>B:</td>
+                <td>Where I Work</td>
+            </tr>
+            <tr>
+                <td>C:</td>
+                <td>Where I Went To School</td>
+            </tr>
+            <tr>
+                <td>D:</td>
+                <td>Favourite Place To Eat</td>
+            </tr>
+        </table>
+    </section>
+    <main>
+        <div id="map"></div>
+    </main>
+
+    <!-- JS Files -->
+    <script
+        src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAxb3jq1cQE73NibQlGjU5LMJwIPTulTd0&callback=initMap"
+        async>
+    </script>
+    <script src="script.js"></script>
+</body>
+
+</html>
