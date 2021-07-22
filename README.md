@@ -145,4 +145,4 @@ To contact GitHub, follow this link: https://support.github.com/
 
 ### Author
 
-# Terence Logue
+Terence Logue
