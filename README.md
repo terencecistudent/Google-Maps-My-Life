@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Google Map Markers - My Life
 
 ## Description
@@ -146,10 +145,12 @@ To contact GitHub, follow this link: https://support.github.com/
 
 ### Author
 
-Terence Logue
-=======
+# Terence Logue
+
 # Google Maps Markers - My Life
 
 ## Deployment
+
 Live link can be found [here](https://terencecistudent.github.io/Google-Maps-My-Life/)
->>>>>>> 7bae8635c9332ea8fc3a70ed0e0b8c641e8bb40a
+
+> > > > > > > 7bae8635c9332ea8fc3a70ed0e0b8c641e8bb40a
