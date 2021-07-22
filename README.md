@@ -6,7 +6,7 @@ I have used the Google Maps API to pin-point locations which are associated with
 
 ## Wireframes
 
-I have used Figma to create the wireframes: To Be Uploaded
+I have used Figma to create the wireframes: [Click Here](https://github.com/terencecistudent/Google-Maps-My-Life/blob/main/wireframes/google-maps-my-life-proj.pdf)
 
 ## UX
 
