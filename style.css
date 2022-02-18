@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(193, 212, 197);
+  background-color: rgba(245, 245, 220, 0.377);
   font-family: "Source Sans Pro", sans-serif;
 }
 
@@ -16,9 +16,10 @@ section {
 }
 
 table {
-  box-shadow: 0 0 5px 1px;
-  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 4px 1px #e3e3e3;
+  background-color: #fff;
   padding: 10px;
+  border-radius: 5px;
 }
 
 .table-heading {
@@ -36,9 +37,8 @@ main {
 
 #map {
   align-items: center;
-  min-width: 200px;
+  max-width: 700px;
   min-height: 300px;
-  border: 1px solid darkgray;
-  box-shadow: 0 0 5px 1px;
+  box-shadow: 0 0 4px 2px #e3e3e3;
   margin-top: 20px;
 }
